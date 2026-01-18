@@ -1,0 +1,7 @@
+baseURL = 'https://girishshekhar.com/'
+languageCode = 'en-us'
+title = 'Girish Shekhar'
+theme = 'PaperMod'
+
+[params]
+  author = 'Girish Shekhar'
