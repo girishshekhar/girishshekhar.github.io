@@ -1,5 +1,17 @@
-+++
-title = ''
-date = 2026-01-17T16:39:22-08:00
-draft = true
-+++
+---
+title: "Girish Shekhar"
+---
+
+Principal Engineer at Amazon.  
+I write about systems, engineering leadership, and building reliable software.
+
+
+---
+
+## Recent Writing
+
+<ul id="recent-posts">
+  <li>Loading...</li>
+</ul>
+
+<script src="{{ "js/recent-posts.js" | relURL }}"></script>

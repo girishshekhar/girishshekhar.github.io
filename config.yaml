@@ -1,0 +1,41 @@
+baseURL: https://girishshekhar.github.io/
+title: Girish Shekhar
+languageCode: en-us
+theme:
+  - PaperMod
+module:
+  imports:
+    - path: github.com/girishshekhar/girishshekhar-theme
+params:
+  author: Girish Shekhar
+  mainSiteURL: https://girishshekhar.github.io
+  blogSiteURL: https://girishshekhar.github.io/blog
+  linkedinURL: https://www.linkedin.com/in/girishshekhar
+  homeInfoParams:
+    Title: "Hi there \U0001F44B"
+    Content: >
+      👋 Welcome to my portfolio and blog.
+
+      - I write about systems, engineering leadership, and building reliable software.
+
+  profileMode:
+    enabled: true
+    subtitle: >
+     > Principal Engineer at Amazon | Tech Enthusiast
+     
+      👋 Welcome to my portfolio and blog.
+
+      - I write about systems, engineering leadership, and building reliable software.
+
+    displayRemoteImages: true
+    socialIcons:
+      - name: github
+        url: "https://github.com/girishshekhar"
+      - name: linkedin
+        url: "https://www.linkedin.com/in/girishshekhar"
+
+environments:
+  development:
+    params:
+      mainSiteURL: http://localhost:1313
+      blogSiteURL: http://localhost:1314
