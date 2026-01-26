@@ -6,6 +6,10 @@ theme:
 module:
   imports:
     - path: github.com/girishshekhar/girishshekhar-theme
+
+server:
+  port: 1313
+
 params:
   author: Girish Shekhar
   mainSiteURL: https://girishshekhar.github.io
