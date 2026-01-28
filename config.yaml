@@ -25,11 +25,11 @@ params:
   profileMode:
     enabled: true
     subtitle: >
-     > Principal Engineer at Amazon | Tech Enthusiast
-     
-      👋 Welcome to my portfolio and blog.
+     > Software Engineer | Technologist | Mentor
+      
+       👋 Welcome to my portfolio and blog.
 
-      - I write about systems, engineering leadership, and building reliable software.
+      I write about systems, engineering leadership, and building reliable software.
 
     displayRemoteImages: true
     socialIcons:
