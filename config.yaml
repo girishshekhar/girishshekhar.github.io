@@ -1,4 +1,4 @@
-baseURL: https://girishshekhar.github.io/
+baseURL: https://girishshekhar.com/
 title: Girish Shekhar
 languageCode: en-us
 theme:
@@ -12,9 +12,12 @@ server:
 
 params:
   author: Girish Shekhar
-  mainSiteURL: https://girishshekhar.github.io
-  blogSiteURL: https://girishshekhar.github.io/blog
+  mainSiteURL: https://girishshekhar.com
+  blogSiteURL: https://girishshekhar.com/blog
   linkedinURL: https://www.linkedin.com/in/girishshekhar
+  # mainSiteURL: https://girishshekhar.github.io
+  # blogSiteURL: https://girishshekhar.github.io/blog
+  # linkedinURL: https://www.linkedin.com/in/girishshekhar
   homeInfoParams:
     Title: "Hi there \U0001F44B"
     Content: >
